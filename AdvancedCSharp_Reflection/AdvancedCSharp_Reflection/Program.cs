@@ -11,7 +11,7 @@ namespace AdvancedCSharp_Reflection
         static void Main(string[] args)
         {
             /*insert here your dll path, not mine*/
-            var assembly = Assembly.LoadFrom(@"C:\Users\isabelle.puertas\source\repos\AdvancedCSharp_Reflection\PrintAssemblyReference\bin\Debug\net8.0\PrintAssemblyReference.dll");
+            var assembly = Assembly.LoadFrom(@"...\AdvancedCSharp_Reflection\PrintAssemblyReference\bin\Debug\net8.0\PrintAssemblyReference.dll");
 
             foreach (var type in assembly.GetTypes())
             {
@@ -141,3 +141,4 @@ namespace AdvancedCSharp_Reflection
         }
     }
 }
+
