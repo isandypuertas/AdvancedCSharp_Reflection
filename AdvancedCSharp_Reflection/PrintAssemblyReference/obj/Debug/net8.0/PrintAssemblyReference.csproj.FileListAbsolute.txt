@@ -1,0 +1,11 @@
+C:\Users\isabelle.puertas\source\repos\AdvancedCSharp_Reflection\PrintAssemblyReference\bin\Debug\net8.0\PrintAssemblyReference.deps.json
+C:\Users\isabelle.puertas\source\repos\AdvancedCSharp_Reflection\PrintAssemblyReference\bin\Debug\net8.0\PrintAssemblyReference.dll
+C:\Users\isabelle.puertas\source\repos\AdvancedCSharp_Reflection\PrintAssemblyReference\bin\Debug\net8.0\PrintAssemblyReference.pdb
+C:\Users\isabelle.puertas\source\repos\AdvancedCSharp_Reflection\PrintAssemblyReference\obj\Debug\net8.0\PrintAssemblyReference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabelle.puertas\source\repos\AdvancedCSharp_Reflection\PrintAssemblyReference\obj\Debug\net8.0\PrintAssemblyReference.AssemblyInfoInputs.cache
+C:\Users\isabelle.puertas\source\repos\AdvancedCSharp_Reflection\PrintAssemblyReference\obj\Debug\net8.0\PrintAssemblyReference.AssemblyInfo.cs
+C:\Users\isabelle.puertas\source\repos\AdvancedCSharp_Reflection\PrintAssemblyReference\obj\Debug\net8.0\PrintAssemblyReference.csproj.CoreCompileInputs.cache
+C:\Users\isabelle.puertas\source\repos\AdvancedCSharp_Reflection\PrintAssemblyReference\obj\Debug\net8.0\PrintAssemblyReference.dll
+C:\Users\isabelle.puertas\source\repos\AdvancedCSharp_Reflection\PrintAssemblyReference\obj\Debug\net8.0\refint\PrintAssemblyReference.dll
+C:\Users\isabelle.puertas\source\repos\AdvancedCSharp_Reflection\PrintAssemblyReference\obj\Debug\net8.0\PrintAssemblyReference.pdb
+C:\Users\isabelle.puertas\source\repos\AdvancedCSharp_Reflection\PrintAssemblyReference\obj\Debug\net8.0\ref\PrintAssemblyReference.dll

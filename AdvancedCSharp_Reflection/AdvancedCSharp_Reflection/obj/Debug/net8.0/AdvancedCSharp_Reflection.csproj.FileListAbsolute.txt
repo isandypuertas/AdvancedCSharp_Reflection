@@ -1,0 +1,14 @@
+C:\Users\isabelle.puertas\source\repos\AdvancedCSharp_Reflection\AdvancedCSharp_Reflection\bin\Debug\net8.0\AdvancedCSharp_Reflection.exe
+C:\Users\isabelle.puertas\source\repos\AdvancedCSharp_Reflection\AdvancedCSharp_Reflection\bin\Debug\net8.0\AdvancedCSharp_Reflection.deps.json
+C:\Users\isabelle.puertas\source\repos\AdvancedCSharp_Reflection\AdvancedCSharp_Reflection\bin\Debug\net8.0\AdvancedCSharp_Reflection.runtimeconfig.json
+C:\Users\isabelle.puertas\source\repos\AdvancedCSharp_Reflection\AdvancedCSharp_Reflection\bin\Debug\net8.0\AdvancedCSharp_Reflection.dll
+C:\Users\isabelle.puertas\source\repos\AdvancedCSharp_Reflection\AdvancedCSharp_Reflection\bin\Debug\net8.0\AdvancedCSharp_Reflection.pdb
+C:\Users\isabelle.puertas\source\repos\AdvancedCSharp_Reflection\AdvancedCSharp_Reflection\obj\Debug\net8.0\AdvancedCSharp_Reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabelle.puertas\source\repos\AdvancedCSharp_Reflection\AdvancedCSharp_Reflection\obj\Debug\net8.0\AdvancedCSharp_Reflection.AssemblyInfoInputs.cache
+C:\Users\isabelle.puertas\source\repos\AdvancedCSharp_Reflection\AdvancedCSharp_Reflection\obj\Debug\net8.0\AdvancedCSharp_Reflection.AssemblyInfo.cs
+C:\Users\isabelle.puertas\source\repos\AdvancedCSharp_Reflection\AdvancedCSharp_Reflection\obj\Debug\net8.0\AdvancedCSharp_Reflection.csproj.CoreCompileInputs.cache
+C:\Users\isabelle.puertas\source\repos\AdvancedCSharp_Reflection\AdvancedCSharp_Reflection\obj\Debug\net8.0\AdvancedCSharp_Reflection.dll
+C:\Users\isabelle.puertas\source\repos\AdvancedCSharp_Reflection\AdvancedCSharp_Reflection\obj\Debug\net8.0\refint\AdvancedCSharp_Reflection.dll
+C:\Users\isabelle.puertas\source\repos\AdvancedCSharp_Reflection\AdvancedCSharp_Reflection\obj\Debug\net8.0\AdvancedCSharp_Reflection.pdb
+C:\Users\isabelle.puertas\source\repos\AdvancedCSharp_Reflection\AdvancedCSharp_Reflection\obj\Debug\net8.0\AdvancedCSharp_Reflection.genruntimeconfig.cache
+C:\Users\isabelle.puertas\source\repos\AdvancedCSharp_Reflection\AdvancedCSharp_Reflection\obj\Debug\net8.0\ref\AdvancedCSharp_Reflection.dll
